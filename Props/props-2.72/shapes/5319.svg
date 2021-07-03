@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="214.25px" width="1908.1px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 954.05, 107.1)">
+    <path d="M170.4 -76.0 L170.45 -75.95 204.95 -75.95 384.0 106.65 -354.75 106.65 -156.4 -75.95 -122.65 -75.95 170.4 -76.0" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M170.4 -76.0 L-122.65 -75.95 -95.45 -106.6 129.5 -106.6 170.4 -76.0 M-156.4 -75.95 L-354.75 106.65 -953.55 106.65 -953.55 33.25 -606.75 -75.95 -156.4 -75.95 M384.0 106.65 L204.95 -75.95 603.35 -75.95 953.55 55.35 953.55 106.65 384.0 106.65" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M204.95 -75.95 L170.45 -75.95 170.4 -76.0 129.5 -106.6 -95.45 -106.6 -122.65 -75.95 -156.4 -75.95 -606.75 -75.95 -953.55 33.25 -953.55 106.65 -354.75 106.65 384.0 106.65 953.55 106.65 953.55 55.35 603.35 -75.95 204.95 -75.95" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M170.4 -76.0 L-122.65 -75.95 M-156.4 -75.95 L-354.75 106.65 M384.0 106.65 L204.95 -75.95 Z" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+</svg>

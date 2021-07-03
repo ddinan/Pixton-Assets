@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="489.05px" width="2098.85px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+    <path d="M1947.45 351.8 L1801.65 488.05 1798.35 454.35 1907.3 351.8 1947.45 351.8 M116.7 351.8 L156.7 351.8 265.75 454.35 262.3 488.05 116.7 351.8" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M1993.3 351.8 L2009.65 351.8 1839.0 488.05 1801.65 488.05 1947.45 351.8 1993.3 351.8 M54.15 351.8 L70.85 351.8 116.7 351.8 262.3 488.05 225.15 488.05 54.15 351.8 M1027.95 351.8 L1079.4 351.8 1070.95 435.75 1032.85 435.75 1027.95 351.8" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M2009.65 351.8 L1993.3 351.8 1947.45 351.8 1907.3 351.8 1079.4 351.8 1027.95 351.8 156.7 351.8 116.7 351.8 70.85 351.8 54.15 351.8 0.15 351.8 0.15 325.1 2097.85 325.1 2097.85 351.8 2009.65 351.8" fill="#ffffff" fill-opacity="0.09803922" fill-rule="evenodd" stroke="none"/>
+    <path d="M2097.85 325.1 L0.15 325.1 0.0 325.1 278.25 90.45 959.95 90.45 1086.1 313.95 1033.0 0.0 1766.1 0.0 2097.85 325.1" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M959.95 90.45 L1022.25 0.0 1033.0 0.0 1086.1 313.95 959.95 90.45" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    <path d="M2009.65 351.8 L1993.3 351.8 M1801.65 488.05 L1839.0 488.05 2009.65 351.8 M54.15 351.8 L70.85 351.8 M1907.3 351.8 L1798.35 454.35 1801.65 488.05 M1033.0 0.0 L1766.1 0.0 2097.85 325.1 M959.95 90.45 L1022.25 0.0 1033.0 0.0 M959.95 90.45 L278.25 90.45 0.0 325.1 M1079.4 351.8 L1070.95 435.75 1032.85 435.75 1027.95 351.8 M156.7 351.8 L265.75 454.35 262.3 488.05 225.15 488.05 54.15 351.8" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.0"/>
+    <path d="M1993.3 351.8 L1947.45 351.8 1907.3 351.8 1079.4 351.8 1027.95 351.8 156.7 351.8 116.7 351.8 70.85 351.8 M2009.65 351.8 L2097.85 351.8 2097.85 325.1 M0.15 325.1 L0.15 351.8 54.15 351.8 M0.0 325.1 L0.15 325.1" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M1947.45 351.8 L1801.65 488.05 M116.7 351.8 L262.3 488.05" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M2097.85 325.1 L0.15 325.1" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="404.5px" width="1519.8px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 759.9, 234.7)">
+    <path d="M401.95 -230.6 L443.05 -165.8 535.0 -165.8 652.35 169.4 647.65 169.8 -16.45 167.8 Q-580.45 149.55 -633.75 148.85 -595.8 146.45 -404.9 123.95 -223.1 102.2 -211.6 102.2 L439.75 110.1 384.8 90.35 Q399.4 85.6 411.3 36.6 417.2 12.1 419.95 -11.65 L388.75 -125.45 Q358.7 -144.85 313.25 -165.8 L227.65 -165.8 Q185.75 -184.75 149.8 -196.2 96.05 -213.2 -174.7 -221.9 -310.25 -226.25 -434.75 -227.45 L-415.0 -230.6 69.95 -229.0 Q183.0 -222.7 236.35 -227.45 L273.1 -228.25 Q358.1 -228.6 401.95 -230.6" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M640.05 -167.75 L641.45 -167.75 759.25 167.8 651.8 167.8 109.35 163.8 -759.25 167.8 -641.45 -167.75 -636.95 -167.75 -595.45 -232.6 193.05 -232.6 244.1 -231.55 Q332.1 -229.9 406.1 -229.7 L421.9 -229.75 571.2 -231.55 598.95 -232.6 640.05 -167.75 -636.95 -167.75 640.05 -167.75" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-759.25 167.8 L109.35 163.8 651.8 167.8 759.25 167.8 641.45 -167.75 640.05 -167.75" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M-636.95 -167.75 L-595.45 -232.6 193.05 -232.6 244.1 -231.55 Q332.1 -229.9 406.1 -229.7 L421.9 -229.75 571.2 -231.55 598.95 -232.6 640.05 -167.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M640.05 -167.75 L-636.95 -167.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-641.45 -167.75 L-759.25 167.8" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M-636.95 -167.75 L-641.45 -167.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+  </g>
+</svg>

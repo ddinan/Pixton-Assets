@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="4.9px" width="5.2px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 2.6, 2.4)">
+    <path d="M-1.05 1.9 L-2.05 0.05 -1.1 -1.75 0.95 -1.9 2.05 0.15 0.95 1.7 -1.05 1.9" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-1.05 1.9 L0.95 1.7 2.05 0.15 0.95 -1.9 -1.1 -1.75 -2.05 0.05 -1.05 1.9 Z" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-0.55 0.9 L-1.0 0.0 -0.6 -0.85 0.4 -0.95 0.95 0.05 0.4 0.8 -0.55 0.9" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M-0.55 0.9 L0.4 0.8 0.95 0.05 0.4 -0.95 -0.6 -0.85 -1.0 0.0 -0.55 0.9 Z" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-0.6 -0.85 L-1.1 -1.75" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M0.4 -0.95 L0.95 -1.9" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-2.05 0.05 L-1.0 0.0" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-1.05 1.9 L-0.55 0.9" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M0.95 1.7 L0.4 0.8" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M2.05 0.15 L0.95 0.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-1.75 -0.35 L-1.2 -1.5 -0.7 -0.8 -1.15 -1.0 -1.75 -0.35" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M-0.7 1.7 L-0.4 1.05 -0.35 1.7 -0.7 1.7" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M0.6 0.8 L1.1 1.2 0.95 1.45 0.6 0.8" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

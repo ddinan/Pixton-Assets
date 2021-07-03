@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="123.05px" width="416.3px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 207.4, 63.6)">
+    <path d="M90.25 -63.1 L103.0 -59.4 Q116.25 -54.85 119.7 -50.25 L127.2 -31.75 162.15 -31.75 193.55 6.95 Q204.3 20.25 207.35 38.75 208.85 48.15 208.2 54.8 L-206.5 54.8 -169.6 -0.5 Q-162.25 -15.15 -153.0 -30.35 -134.65 -60.75 -125.35 -63.1 L90.25 -63.1" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M90.25 -63.1 L103.0 -59.4 Q116.25 -54.85 119.7 -50.25 L127.2 -31.75 162.15 -31.75 193.55 6.95 Q204.3 20.25 207.35 38.75 208.85 48.15 208.2 54.8 L-206.5 54.8 -169.6 -0.5 Q-162.25 -15.15 -153.0 -30.35 -134.65 -60.75 -125.35 -63.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.8" stroke-width="1.0"/>
+    <path d="M-125.35 -63.1 L90.25 -63.1 Z" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M117.45 -51.75 L-135.25 -54.9 -126.5 -62.3 89.8 -62.85 100.95 -59.65 Q113.0 -55.6 117.45 -51.75" fill="#ffffff" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M165.95 -25.2 L-66.1 -26.85 161.1 -30.05 165.95 -25.2" fill="#ffffff" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M-154.2 -34.25 L-152.2 -41.1 -139.7 -29.85 Q-126.5 -14.85 -123.0 3.35 L-117.3 12.1 Q-109.25 21.15 -98.0 22.8 L121.55 31.15 125.7 54.75 120.0 54.75 116.55 35.3 -103.0 27.0 Q-114.25 25.3 -122.3 16.3 L-128.0 7.55 Q-131.5 -10.7 -144.7 -25.7 L-154.2 -34.25" fill="#000000" fill-opacity="0.7490196" fill-rule="evenodd" stroke="none"/>
+    <path d="M120.0 54.75 L120.7 58.95 -185.0 58.95 -157.2 -36.95 -154.2 -34.25 -144.7 -25.7 Q-131.5 -10.7 -128.0 7.55 L-122.3 16.3 Q-114.25 25.3 -103.0 27.0 L116.55 35.3 120.0 54.75" fill="#000000" fill-opacity="0.49803922" fill-rule="evenodd" stroke="none"/>
+    <path d="M120.0 54.75 L120.7 58.95 -185.0 58.95 -157.2 -36.95 -154.2 -34.25 -144.7 -25.7 Q-131.5 -10.7 -128.0 7.55 L-122.3 16.3 Q-114.25 25.3 -103.0 27.0 L116.55 35.3 120.0 54.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M-154.2 -34.25 L-152.2 -41.1 -139.7 -29.85 Q-126.5 -14.85 -123.0 3.35 L-117.3 12.1 Q-109.25 21.15 -98.0 22.8 L121.55 31.15 125.7 54.75 120.0 54.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.2" stroke-width="1.0"/>
+  </g>
+</svg>

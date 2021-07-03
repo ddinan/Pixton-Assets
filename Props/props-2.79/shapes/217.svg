@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="157.0px" width="476.5px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 238.25, 78.5)">
+    <path d="M-72.95 -62.25 L-72.95 64.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M181.0 -62.25 L181.0 64.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M237.75 -78.0 L237.75 -63.0 -156.5 -63.0 Q-183.9 -63.0 -203.3 -44.55 -222.75 -26.1 -222.75 0.0 -222.75 26.0 -203.3 44.55 -183.9 63.0 -156.5 63.0 L235.6 63.0 235.6 78.0 -156.5 78.0 Q-190.1 78.0 -213.9 55.1 -237.75 32.25 -237.75 0.0 -237.75 -32.25 -213.9 -55.15 -190.1 -78.0 -156.5 -78.0 L237.75 -78.0" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M237.75 -63.0 L-156.5 -63.0 Q-183.9 -63.0 -203.3 -44.55 -222.75 -26.1 -222.75 0.0 -222.75 26.0 -203.3 44.55 -183.9 63.0 -156.5 63.0 L235.6 63.0 235.6 78.0 -156.5 78.0 Q-190.1 78.0 -213.9 55.1 -237.75 32.25 -237.75 0.0 -237.75 -32.25 -213.9 -55.15 -190.1 -78.0 -156.5 -78.0 L237.75 -78.0" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M235.6 78.0 L-156.5 78.0 Q-190.1 78.0 -213.9 55.1 -237.75 32.25 -237.75 0.0 -237.75 -32.25 -213.9 -55.15 -190.1 -78.0 -156.5 -78.0 L237.75 -78.0 M237.75 -63.0 L-156.5 -63.0 Q-183.9 -63.0 -203.3 -44.55 -222.75 -26.1 -222.75 0.0 -222.75 26.0 -203.3 44.55 -183.9 63.0 -156.5 63.0 L235.6 63.0" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M-179.15 -68.95 Q-197.0 -63.15 -213.0 -51.3 L-209.85 -54.6 Q-205.65 -58.65 -200.55 -62.1 -184.1 -73.2 -164.45 -74.8 L-29.1 -74.5 -164.45 -72.3 Q-170.25 -71.8 -179.15 -68.95" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

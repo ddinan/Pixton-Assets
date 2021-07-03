@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="11.45px" width="32.8px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.5, 0.5)">
+    <path d="M29.25 8.55 L27.4 8.7 27.25 8.7 0.0 10.45 0.6 6.4 0.85 5.05 6.9 2.6 Q14.05 -0.05 15.75 0.0 17.45 0.15 22.3 1.5 L27.6 3.1 27.85 3.1 29.25 8.55" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M31.8 8.35 L30.55 8.45 29.25 8.55 27.85 3.1 30.2 3.25 30.2 3.95 Q30.7 5.5 31.55 6.6 L31.8 8.35" fill="#ffffff" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M27.4 8.7 L27.25 8.7 M0.0 10.45 L0.6 6.4 0.85 5.05 M30.2 3.25 L30.2 3.95 Q30.7 5.5 31.55 6.6 L31.8 8.35" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M31.8 8.35 L30.55 8.45 M0.85 5.05 L6.9 2.6 Q14.05 -0.05 15.75 0.0 17.45 0.15 22.3 1.5 L27.6 3.1 27.85 3.1 30.2 3.25" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M30.55 8.45 L29.25 8.55 27.4 8.7 M27.25 8.7 L0.0 10.45" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+</svg>

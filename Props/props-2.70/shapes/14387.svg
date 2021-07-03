@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="376.65px" width="216.65px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 108.3, 188.35)">
+    <path d="M-107.8 -187.85 L107.85 -187.85 107.85 186.55 -107.8 186.55 -107.8 -187.85" fill="#000000" fill-opacity="0.29803923" fill-rule="evenodd" stroke="none"/>
+    <path d="M-107.8 -187.85 L-107.8 186.55 107.85 186.55 107.85 -187.85 -107.8 -187.85 Z" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M76.6 -143.45 L76.6 186.55 -107.8 186.55 -107.8 -143.45 76.6 -143.45" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-50.3 -185.35 L-50.3 187.8" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M45.35 -185.35 L45.35 187.8" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M107.85 -0.95 L-106.55 -0.95" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M107.85 -123.45 L-106.55 -123.45" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M107.85 120.9 L-106.55 120.9" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+  </g>
+</svg>

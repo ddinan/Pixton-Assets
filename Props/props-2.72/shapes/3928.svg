@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="916.9px" width="597.1px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 298.5, 458.45)">
+    <path d="M-37.3 -59.15 L-45.3 -104.3 -45.3 449.55 -37.3 449.55 -37.3 -59.15 M3.3 -114.15 L3.3 457.95 -49.4 457.95 -49.4 -114.15 3.3 -114.15" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M-37.3 -59.15 L-37.3 449.55 -45.3 449.55 -45.3 -104.3 -37.3 -59.15" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M3.3 -114.15 L3.3 457.95 -49.4 457.95 -49.4 -114.15 3.3 -114.15" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-37.3 -59.15 L-37.3 449.55 -45.3 449.55 -45.3 -104.3 -37.3 -59.15" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.2" stroke-width="1.0"/>
+    <path d="M-138.95 -434.7 L-153.65 -448.05 298.0 -457.05 230.5 -142.45 202.55 -124.2 270.9 -436.95 -138.95 -434.7" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M202.55 -124.2 L-256.05 -124.2 -297.95 -433.85 -138.95 -434.7 270.9 -436.95 202.55 -124.2" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-138.95 -434.7 L-153.65 -448.05 298.0 -457.05 230.5 -142.45 202.55 -124.2 -256.05 -124.2 -297.95 -433.85 -138.95 -434.7 270.9 -436.95 202.55 -124.2" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M269.45 -437.85 L296.55 -457.95" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+  </g>
+</svg>

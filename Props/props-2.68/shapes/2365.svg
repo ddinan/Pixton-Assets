@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="457.55px" width="163.25px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 538.2, 64.15)">
+    <path d="M-537.7 346.0 L-537.7 -63.55 -460.55 -50.5 Q-382.05 -37.45 -375.45 -37.45 L-375.45 392.9 -393.45 388.55 -393.45 -16.6 Q-398.5 -16.6 -458.7 -28.3 L-517.85 -40.0 -517.85 352.6 -537.7 346.0" fill="#ffffff" fill-opacity="0.14901961" fill-rule="evenodd" stroke="none"/>
+    <path d="M-517.85 352.6 L-517.85 -40.0 -458.7 -28.3 Q-398.5 -16.6 -393.45 -16.6 L-393.45 388.55 -517.85 352.6 M-427.7 136.95 L-427.7 214.45 -411.5 218.05 -411.5 140.55 -427.7 136.95" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-427.7 136.95 L-411.5 140.55 -411.5 218.05 -427.7 214.45 -427.7 136.95" fill="#000000" fill-opacity="0.09803922" fill-rule="evenodd" stroke="none"/>
+    <path d="M-537.7 346.0 L-517.85 352.6 -517.85 -40.0 -458.7 -28.3 Q-398.5 -16.6 -393.45 -16.6 L-393.45 388.55 -375.45 392.9 M-517.85 352.6 L-393.45 388.55" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M-375.45 392.9 L-375.45 -37.45 Q-382.05 -37.45 -460.55 -50.5 L-537.7 -63.55 -537.7 346.0 M-427.7 136.95 L-427.7 214.45 -411.5 218.05 -411.5 140.55 -427.7 136.95" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+</svg>

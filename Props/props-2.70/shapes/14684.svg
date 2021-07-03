@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="89.4px" width="662.45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 331.2, 0.35)">
+    <path d="M330.75 38.85 L330.75 64.95 305.35 64.95 305.35 38.85 330.75 38.85" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M330.75 38.85 L305.35 38.85 305.35 64.95 330.75 64.95 330.75 38.85 Z" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M220.25 62.05 L222.9 88.15 211.25 88.15 212.5 64.95 -243.8 64.95 -241.45 88.15 -253.05 88.15 -251.8 64.95 -330.7 64.95 -330.7 48.25 -247.65 48.25 -150.5 48.25 204.25 48.25 219.25 48.25 219.25 52.6 220.25 62.05" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M236.9 0.15 Q270.3 0.15 286.85 13.35 306.5 29.05 299.8 62.05 L220.25 62.05 219.25 52.6 219.25 48.25 204.25 48.25 Q204.4 39.7 206.1 31.1 212.1 0.15 236.9 0.15 M-247.65 48.25 Q-247.3 41.15 -245.9 34.0 -239.9 3.05 -215.1 3.05 -181.7 3.05 -165.15 16.25 -150.85 27.65 -150.5 48.25 L-247.65 48.25" fill="#000000" fill-opacity="0.4" fill-rule="evenodd" stroke="none"/>
+    <path d="M236.9 0.15 Q270.3 0.15 286.85 13.35 306.5 29.05 299.8 62.05 L220.25 62.05 M211.25 88.15 L212.5 64.95 -243.8 64.95 -241.45 88.15 -253.05 88.15 -251.8 64.95 -330.7 64.95 -330.7 48.25 -247.65 48.25 M-215.1 3.05 Q-181.7 3.05 -165.15 16.25 -150.85 27.65 -150.5 48.25 M219.25 52.6 L219.25 48.25" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M-150.5 48.25 L204.25 48.25 M-150.5 48.25 L-247.65 48.25" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M222.9 88.15 L211.25 88.15 M-245.9 34.0 Q-239.9 3.05 -215.1 3.05 M206.1 31.1 Q212.1 0.15 236.9 0.15 M219.25 48.25 L204.25 48.25" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M220.25 62.05 L222.9 88.15 M-247.65 48.25 Q-247.3 41.15 -245.9 34.0 M204.25 48.25 Q204.4 39.7 206.1 31.1 M220.25 62.05 L219.25 52.6" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+  </g>
+</svg>

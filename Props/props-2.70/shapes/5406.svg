@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="625.1px" width="1046.05px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 523.05, 312.55)">
+    <path d="M-522.55 -306.7 L-475.2 -312.05 -25.95 -212.75 481.85 -275.8 522.35 -268.9 120.75 -215.8 -36.65 -196.7 -522.55 -306.7" fill="#000000" fill-opacity="0.34901962" fill-rule="evenodd" stroke="none"/>
+    <path d="M221.5 -123.4 L196.2 -118.25 142.1 -108.05 141.2 -108.0 141.2 18.35 141.2 52.4 246.6 34.1 246.6 -128.6 221.5 -123.4 M-36.65 -196.7 L120.75 -215.8 522.35 -268.9 522.5 192.85 -36.65 312.05 -36.65 -196.7" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M-522.55 -306.7 L-36.65 -196.7 -36.65 312.05 -518.85 110.35 -522.55 -224.2 -522.55 -306.7" fill="#000000" fill-opacity="0.14901961" fill-rule="evenodd" stroke="none"/>
+    <path d="M221.5 -123.4 L246.6 -128.6 246.6 34.1 141.2 52.4 141.2 18.35 221.5 4.4 221.5 -123.4" fill="#000000" fill-opacity="0.54901963" fill-rule="evenodd" stroke="none"/>
+    <path d="M141.2 18.35 L141.2 -108.0 142.1 -108.05 196.2 -118.25 221.5 -123.4 246.6 -128.6 246.6 34.1 141.2 52.4 141.2 18.35 221.5 4.4 221.5 -123.4 M522.35 -268.9 L481.85 -275.8 -25.95 -212.75 -475.2 -312.05 -522.55 -306.7 -522.55 -224.2 -518.85 110.35 -36.65 312.05 522.5 192.85 522.35 -268.9" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M-522.55 -306.7 L-36.65 -196.7 120.75 -215.8 522.35 -268.9 M-36.65 312.05 L-36.65 -196.7" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="1044.6px" width="1038.9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 519.4, 522.25)">
+    <path d="M-518.9 -320.1 L-482.0 -377.9 -430.05 -521.7 430.6 -521.7 482.55 -377.9 519.0 -320.1 -518.9 -320.1 M456.9 -36.15 L474.7 -23.75 -507.9 -23.75 -458.6 -36.15 456.9 -36.15" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M519.0 -320.1 L519.0 -289.7 -518.9 -289.7 -518.9 -320.1 519.0 -320.1 M474.7 -23.75 L474.7 6.6 -507.9 6.6 -507.9 -23.75 474.7 -23.75 M451.3 498.45 L451.3 521.85 -477.5 521.65 -477.5 498.45 451.3 498.45" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M451.3 498.45 L451.3 521.85 M-477.5 521.65 L-477.5 498.45" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M-458.6 -36.15 L456.9 -36.15 M451.3 521.85 L-477.5 521.65 M-477.5 498.45 L451.3 498.45" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M519.0 -320.1 L519.0 -289.7 -518.9 -289.7 -518.9 -320.1 -482.0 -377.9 -430.05 -521.7 430.6 -521.7 482.55 -377.9 519.0 -320.1 M474.7 -23.75 L474.7 6.6 -507.9 6.6 -507.9 -23.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M519.0 -320.1 L-518.9 -320.1" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M456.9 -36.15 L474.7 -23.75" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M-507.9 -23.75 L-458.6 -36.15" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+    <path d="M-507.9 -23.75 L474.7 -23.75" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M482.45 -377.9 L518.8 -320.2 -518.6 -320.0 -481.65 -377.9 482.45 -377.9" fill="#000000" fill-opacity="0.09803922" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

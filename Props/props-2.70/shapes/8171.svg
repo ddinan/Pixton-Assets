@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="192.3px" width="1083.45px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 541.7, 96.15)">
+    <path d="M450.6 -62.85 L437.95 -62.5 422.65 -62.7 450.6 -62.85" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+    <path d="M422.65 -62.7 L437.95 -62.5 450.6 -62.85 539.2 -63.45 541.25 -63.45 541.25 95.65 -541.2 95.65 -541.2 -61.7 422.65 -62.7" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M450.6 -62.85 L422.65 -62.7 -541.2 -61.7 -501.6 -95.65 501.6 -95.65 539.2 -63.45 450.6 -62.85" fill="#ffffff" fill-opacity="0.09803922" fill-rule="evenodd" stroke="none"/>
+    <path d="M450.6 -62.85 L422.65 -62.7 -541.2 -61.7 M539.2 -63.45 L450.6 -62.85" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-541.2 -61.7 L-541.2 95.65 541.25 95.65 541.25 -63.45 539.2 -63.45 501.6 -95.65 -501.6 -95.65 -541.2 -61.7" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-width="1.0"/>
+  </g>
+</svg>

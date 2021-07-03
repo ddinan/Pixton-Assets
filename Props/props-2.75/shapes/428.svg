@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="350.95px" width="512.4px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 256.2, 175.7)">
+    <path d="M191.4 -175.2 L204.5 -159.75 Q219.95 -139.3 231.3 -114.0 267.65 -33.25 249.9 64.7 244.8 79.95 232.5 100.7 208.05 142.25 172.5 170.25 L-172.45 170.25 Q-208.0 142.25 -232.45 100.7 -240.1 87.75 -245.7 74.9 L-249.85 64.7 Q-267.6 -33.25 -231.3 -114.0 -219.9 -139.3 -204.55 -159.75 -196.8 -170.05 -191.4 -175.2 L191.4 -175.2 M229.35 -23.05 Q224.1 -105.0 181.1 -156.0 L-177.85 -156.0 Q-220.8 -105.0 -226.0 -23.05 -228.6 18.0 -222.6 48.75 L225.95 48.75 Q231.95 18.0 229.35 -23.05" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M191.4 -175.2 L-191.4 -175.2 Q-196.8 -170.05 -204.55 -159.75 -219.9 -139.3 -231.3 -114.0 -267.6 -33.25 -249.85 64.7 L-245.7 74.9 Q-240.1 87.75 -232.45 100.7 -208.0 142.25 -172.45 170.25 L172.5 170.25 Q208.05 142.25 232.5 100.7 244.8 79.95 249.9 64.7 267.65 -33.25 231.3 -114.0 219.95 -139.3 204.5 -159.75 L191.4 -175.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-width="1.0"/>
+    <path d="M229.35 -23.05 Q231.95 18.0 225.95 48.75 L-222.6 48.75 Q-228.6 18.0 -226.0 -23.05 -220.8 -105.0 -177.85 -156.0 L181.1 -156.0 Q224.1 -105.0 229.35 -23.05" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-117.15 82.2 Q-43.2 70.7 1.35 70.7 52.2 70.7 61.2 85.25 65.4 91.95 60.35 102.2 43.55 136.5 -5.85 168.3 L-49.2 168.3 Q-6.75 132.95 -11.55 116.6 -14.5 106.55 -33.7 104.4 L-60.9 102.95 Q-119.35 102.95 -215.2 123.3 -222.55 113.45 -229.0 102.8 -168.75 90.2 -117.15 82.2" fill="#000000" fill-opacity="0.2" fill-rule="evenodd" stroke="none"/>
+    <path d="M-91.05 174.65 L-91.05 -155.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-94.05 -154.6 L-94.05 175.25 -96.45 175.25 -96.45 -154.6 -94.05 -154.6" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M108.65 -154.6 L108.65 175.25 106.25 175.25 106.25 -154.6 108.65 -154.6" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M111.65 174.65 L111.65 -155.2" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="10.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M-188.2 -172.2 L189.6 -172.2 189.6 -169.3 -188.2 -169.3 -188.2 -172.2" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+    <path d="M-242.4 -55.8 Q-232.95 -95.4 -211.15 -133.6 -200.25 -152.65 -191.25 -163.8 -237.15 -90.1 -241.95 -22.0 -245.8 32.45 -223.3 80.9 -207.25 115.4 -179.65 143.55 -165.85 157.55 -155.25 164.7 L-168.75 164.7 Q-226.0 113.1 -242.5 50.1 -255.75 -0.4 -242.4 -55.8" fill="#ffffff" fill-opacity="0.6" fill-rule="evenodd" stroke="none"/>
+  </g>
+</svg>

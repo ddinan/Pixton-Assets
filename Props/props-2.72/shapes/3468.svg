@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="61.2px" width="158.55px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <path d="M23.4 27.45 L38.95 27.95 42.75 21.6 50.05 20.15 54.45 32.5 68.4 38.55 70.25 38.55 76.35 29.05 83.75 38.55 83.85 38.7 105.5 38.95 108.5 32.85 117.9 32.1 118.8 38.55 119.55 42.5 125.85 47.8 130.5 47.6 130.55 47.65 145.65 54.85 151.3 50.15 156.25 31.1 157.15 60.35 158.05 60.7 135.9 60.7 130.55 58.25 130.5 58.2 129.9 58.2 129.7 58.2 125.85 58.35 115.2 49.45 115.0 49.45 68.4 49.05 48.3 40.55 46.8 39.8 45.35 39.3 43.85 38.55 27.55 38.2 27.05 29.25 23.4 27.45" fill="#000000" fill-opacity="0.047058824" fill-rule="evenodd" stroke="none"/>
+    <path d="M115.0 49.45 L115.2 49.45 125.85 58.35 125.7 60.7 114.7 60.7 115.0 49.45" fill="#000000" fill-opacity="0.14901961" fill-rule="evenodd" stroke="none"/>
+    <path d="M125.85 58.35 L129.7 58.2 129.7 60.7 125.7 60.7 125.85 58.35" fill="#000000" fill-opacity="0.24705882" fill-rule="evenodd" stroke="none"/>
+    <path d="M27.55 38.2 L43.85 38.55 45.35 39.3 48.3 40.55 68.4 49.05 68.05 60.7 53.1 60.7 53.1 57.55 39.05 53.95 27.8 43.4 27.55 38.2 M129.7 58.2 L129.9 58.2 130.5 58.2 130.55 58.25 135.9 60.7 129.7 60.7 129.7 58.2" fill="#000000" fill-opacity="0.09803922" fill-rule="evenodd" stroke="none"/>
+    <path d="M23.4 27.45 L27.05 29.25 27.55 38.2 27.8 43.4 39.05 53.95 53.1 57.55 53.1 60.7 0.0 60.7 0.0 0.0 3.95 5.4 9.8 4.1 16.9 12.6 17.95 24.7 23.4 27.45 M68.4 49.05 L115.0 49.45 114.7 60.7 68.05 60.7 68.4 49.05" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+    <path d="M158.05 60.7 L157.15 60.35 M156.25 31.1 L151.3 50.15 145.65 54.85 130.55 47.65" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.6" stroke-width="1.0"/>
+    <path d="M130.55 58.25 L135.9 60.7" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.4" stroke-width="1.0"/>
+    <path d="M157.15 60.35 L156.25 31.1" fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter-clip" stroke-miterlimit="4.0" stroke-opacity="0.8" stroke-width="1.0"/>
+  </g>
+</svg>
